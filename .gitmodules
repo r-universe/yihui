@@ -1,3 +1,60 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
+	shallow = true
+[submodule "animation"]
+	path = animation
+	url = https://github.com/yihui/animation
+	shallow = true
+[submodule "formatR"]
+	path = formatR
+	url = https://github.com/yihui/formatr
+	shallow = true
+[submodule "fun"]
+	path = fun
+	url = https://github.com/yihui/fun
+	shallow = true
+[submodule "highr"]
+	path = highr
+	url = https://github.com/yihui/highr
+	shallow = true
+[submodule "knitr"]
+	path = knitr
+	url = https://github.com/yihui/knitr
+	shallow = true
+[submodule "mime"]
+	path = mime
+	url = https://github.com/yihui/mime
+	shallow = true
+[submodule "MSG"]
+	path = MSG
+	url = https://github.com/yihui/msg
+	shallow = true
+[submodule "printr"]
+	path = printr
+	url = https://github.com/yihui/printr
+	shallow = true
+[submodule "Rd2roxygen"]
+	path = Rd2roxygen
+	url = https://github.com/yihui/rd2roxygen
+	shallow = true
+[submodule "servr"]
+	path = servr
+	url = https://github.com/yihui/servr
+	shallow = true
+[submodule "testit"]
+	path = testit
+	url = https://github.com/yihui/testit
+	shallow = true
+[submodule "tinytex"]
+	path = tinytex
+	url = https://github.com/yihui/tinytex
+	shallow = true
+[submodule "xaringan"]
+	path = xaringan
+	url = https://github.com/yihui/xaringan
+	shallow = true
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
+	shallow = true
