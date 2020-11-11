@@ -2,59 +2,74 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
+	branch = HEAD
 [submodule "animation"]
 	path = animation
 	url = https://github.com/yihui/animation
 	shallow = true
+	branch = HEAD
 [submodule "formatR"]
 	path = formatR
 	url = https://github.com/yihui/formatr
 	shallow = true
+	branch = HEAD
 [submodule "fun"]
 	path = fun
 	url = https://github.com/yihui/fun
 	shallow = true
+	branch = HEAD
 [submodule "highr"]
 	path = highr
 	url = https://github.com/yihui/highr
 	shallow = true
+	branch = HEAD
 [submodule "knitr"]
 	path = knitr
 	url = https://github.com/yihui/knitr
 	shallow = true
+	branch = HEAD
 [submodule "mime"]
 	path = mime
 	url = https://github.com/yihui/mime
 	shallow = true
+	branch = HEAD
 [submodule "MSG"]
 	path = MSG
 	url = https://github.com/yihui/msg
 	shallow = true
+	branch = HEAD
 [submodule "printr"]
 	path = printr
 	url = https://github.com/yihui/printr
 	shallow = true
+	branch = HEAD
 [submodule "Rd2roxygen"]
 	path = Rd2roxygen
 	url = https://github.com/yihui/rd2roxygen
 	shallow = true
+	branch = HEAD
 [submodule "servr"]
 	path = servr
 	url = https://github.com/yihui/servr
 	shallow = true
+	branch = HEAD
 [submodule "testit"]
 	path = testit
 	url = https://github.com/yihui/testit
 	shallow = true
+	branch = HEAD
 [submodule "tinytex"]
 	path = tinytex
 	url = https://github.com/yihui/tinytex
 	shallow = true
+	branch = HEAD
 [submodule "xaringan"]
 	path = xaringan
 	url = https://github.com/yihui/xaringan
 	shallow = true
+	branch = HEAD
 [submodule "xfun"]
 	path = xfun
 	url = https://github.com/yihui/xfun
 	shallow = true
+	branch = HEAD
