@@ -59,3 +59,7 @@
 	path = xfun
 	url = https://github.com/yihui/xfun
 	shallow = true
+[submodule "rmarkdown"]
+	path = rmarkdown
+	url = https://github.com/rstudio/rmarkdown
+	shallow = true
