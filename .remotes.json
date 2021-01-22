@@ -1,8 +1,80 @@
 [
   {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
+    "via": ["xaringan", "rmarkdown"],
+    "from": "xaringan"
+  },
+  {
+    "package": "bslib",
+    "url": "https://github.com/rstudio/bslib",
+    "via": ["xaringan", "rmarkdown", "shiny"],
+    "from": "xaringan"
+  },
+  {
+    "package": "cachem",
+    "url": "https://github.com/r-lib/cachem",
+    "via": ["xaringan", "rmarkdown", "bslib", "shiny"],
+    "from": "xaringan"
+  },
+  {
+    "package": "cachem",
+    "url": "https://github.com/r-lib/cachem",
+    "via": ["xaringan", "rmarkdown", "shiny"],
+    "from": "xaringan"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["xaringan", "rmarkdown", "bslib", "shiny"],
+    "from": "xaringan"
+  },
+  {
+    "package": "htmltools",
+    "url": "https://github.com/rstudio/htmltools",
+    "via": ["xaringan", "rmarkdown", "shiny"],
+    "from": "xaringan"
+  },
+  {
     "package": "rmarkdown",
     "url": "https://github.com/rstudio/rmarkdown",
     "via": ["xaringan"],
+    "from": "xaringan"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["xaringan", "rmarkdown", "bslib", "shiny"],
+    "from": "xaringan"
+  },
+  {
+    "package": "sass",
+    "url": "https://github.com/rstudio/sass",
+    "via": ["xaringan", "rmarkdown", "shiny"],
+    "from": "xaringan"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny",
+    "via": ["xaringan", "rmarkdown", "bslib"],
+    "from": "xaringan"
+  },
+  {
+    "package": "shiny",
+    "url": "https://github.com/rstudio/shiny",
+    "via": ["xaringan", "rmarkdown"],
+    "from": "xaringan"
+  },
+  {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest",
+    "via": ["xaringan", "rmarkdown", "bslib", "shiny"],
+    "from": "xaringan"
+  },
+  {
+    "package": "shinytest",
+    "url": "https://github.com/rstudio/shinytest",
+    "via": ["xaringan", "rmarkdown", "shiny"],
     "from": "xaringan"
   }
 ]
