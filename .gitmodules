@@ -59,31 +59,3 @@
 	path = xfun
 	url = https://github.com/yihui/xfun
 	shallow = true
-[submodule "bslib"]
-	path = bslib
-	url = https://github.com/rstudio/bslib
-	shallow = true
-[submodule "cachem"]
-	path = cachem
-	url = https://github.com/r-lib/cachem
-	shallow = true
-[submodule "htmltools"]
-	path = htmltools
-	url = https://github.com/rstudio/htmltools
-	shallow = true
-[submodule "rmarkdown"]
-	path = rmarkdown
-	url = https://github.com/rstudio/rmarkdown
-	shallow = true
-[submodule "sass"]
-	path = sass
-	url = https://github.com/rstudio/sass
-	shallow = true
-[submodule "shiny"]
-	path = shiny
-	url = https://github.com/rstudio/shiny
-	shallow = true
-[submodule "shinytest"]
-	path = shinytest
-	url = https://github.com/rstudio/shinytest
-	shallow = true
