@@ -1,58 +1,44 @@
 [
   {
-    "package": "animation",
-    "oncran": true
+    "package": "animation"
   },
   {
-    "package": "formatR",
-    "oncran": true
+    "package": "formatR"
   },
   {
-    "package": "fun",
-    "oncran": true
+    "package": "fun"
   },
   {
-    "package": "highr",
-    "oncran": true
+    "package": "highr"
   },
   {
-    "package": "knitr",
-    "oncran": true
+    "package": "knitr"
   },
   {
-    "package": "mime",
-    "oncran": true
+    "package": "mime"
   },
   {
-    "package": "MSG",
-    "oncran": true
+    "package": "MSG"
   },
   {
-    "package": "printr",
-    "oncran": true
+    "package": "printr"
   },
   {
-    "package": "Rd2roxygen",
-    "oncran": true
+    "package": "Rd2roxygen"
   },
   {
-    "package": "servr",
-    "oncran": true
+    "package": "servr"
   },
   {
-    "package": "testit",
-    "oncran": true
+    "package": "testit"
   },
   {
-    "package": "tinytex",
-    "oncran": true
+    "package": "tinytex"
   },
   {
-    "package": "xaringan",
-    "oncran": true
+    "package": "xaringan"
   },
   {
-    "package": "xfun",
-    "oncran": true
+    "package": "xfun"
   }
 ]
