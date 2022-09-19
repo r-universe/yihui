@@ -20,10 +20,6 @@
     "oncran": true
   },
   {
-    "package": "mime",
-    "oncran": true
-  },
-  {
     "package": "MSG",
     "oncran": true
   },

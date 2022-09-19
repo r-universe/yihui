@@ -28,11 +28,6 @@
 	url = https://github.com/yihui/knitr
 	shallow = true
 	registered = true
-[submodule "mime"]
-	path = mime
-	url = https://github.com/yihui/mime
-	shallow = true
-	registered = true
 [submodule "MSG"]
 	path = MSG
 	url = https://github.com/yihui/msg
