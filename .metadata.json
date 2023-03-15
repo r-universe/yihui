@@ -36,6 +36,10 @@
     "oncran": true
   },
   {
+    "package": "rolldown",
+    "oncran": true
+  },
+  {
     "package": "servr",
     "oncran": true
   },

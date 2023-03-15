@@ -48,6 +48,11 @@
 	url = https://github.com/yihui/rd2roxygen
 	shallow = true
 	registered = true
+[submodule "rolldown"]
+	path = rolldown
+	url = https://github.com/yihui/rolldown
+	shallow = true
+	registered = true
 [submodule "servr"]
 	path = servr
 	url = https://github.com/yihui/servr
