@@ -1,10 +1,6 @@
 [
   {
-    "package": "fun",
-    "oncran": true
-  },
-  {
-    "package": "knitr",
+    "package": "animation",
     "oncran": true
   },
   {
@@ -12,11 +8,19 @@
     "oncran": true
   },
   {
-    "package": "xaringan",
+    "package": "fun",
     "oncran": true
   },
   {
-    "package": "xfun",
+    "package": "highr",
+    "oncran": true
+  },
+  {
+    "package": "knitr",
+    "oncran": true
+  },
+  {
+    "package": "mime",
     "oncran": true
   },
   {
@@ -32,23 +36,19 @@
     "oncran": true
   },
   {
-    "package": "highr",
-    "oncran": true
-  },
-  {
-    "package": "mime",
-    "oncran": true
-  },
-  {
     "package": "servr",
     "oncran": true
   },
   {
-    "package": "animation",
+    "package": "testit",
     "oncran": true
   },
   {
-    "package": "testit",
+    "package": "xaringan",
+    "oncran": true
+  },
+  {
+    "package": "xfun",
     "oncran": true
   }
 ]

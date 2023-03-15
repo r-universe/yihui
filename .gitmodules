@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "fun"]
-	path = fun
-	url = https://github.com/yihui/fun
-	shallow = true
-	registered = true
-[submodule "knitr"]
-	path = knitr
-	url = https://github.com/yihui/knitr
+[submodule "animation"]
+	path = animation
+	url = https://github.com/yihui/animation
 	shallow = true
 	registered = true
 [submodule "formatR"]
@@ -18,14 +13,24 @@
 	url = https://github.com/yihui/formatr
 	shallow = true
 	registered = true
-[submodule "xaringan"]
-	path = xaringan
-	url = https://github.com/yihui/xaringan
+[submodule "fun"]
+	path = fun
+	url = https://github.com/yihui/fun
 	shallow = true
 	registered = true
-[submodule "xfun"]
-	path = xfun
-	url = https://github.com/yihui/xfun
+[submodule "highr"]
+	path = highr
+	url = https://github.com/yihui/highr
+	shallow = true
+	registered = true
+[submodule "knitr"]
+	path = knitr
+	url = https://github.com/yihui/knitr
+	shallow = true
+	registered = true
+[submodule "mime"]
+	path = mime
+	url = https://github.com/yihui/mime
 	shallow = true
 	registered = true
 [submodule "MSG"]
@@ -43,28 +48,23 @@
 	url = https://github.com/yihui/rd2roxygen
 	shallow = true
 	registered = true
-[submodule "highr"]
-	path = highr
-	url = https://github.com/yihui/highr
-	shallow = true
-	registered = true
-[submodule "mime"]
-	path = mime
-	url = https://github.com/yihui/mime
-	shallow = true
-	registered = true
 [submodule "servr"]
 	path = servr
 	url = https://github.com/yihui/servr
 	shallow = true
 	registered = true
-[submodule "animation"]
-	path = animation
-	url = https://github.com/yihui/animation
-	shallow = true
-	registered = true
 [submodule "testit"]
 	path = testit
 	url = https://github.com/yihui/testit
+	shallow = true
+	registered = true
+[submodule "xaringan"]
+	path = xaringan
+	url = https://github.com/yihui/xaringan
+	shallow = true
+	registered = true
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
 	shallow = true
 	registered = true
