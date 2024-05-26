@@ -1,8 +1,0 @@
-[
-  {
-    "package": "highr",
-    "url": "https://github.com/yihui/highr",
-    "via": ["knitr"],
-    "from": "knitr"
-  }
-]
