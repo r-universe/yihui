@@ -2,6 +2,48 @@
 	path = .registry
 	url = https://github.com/yihui/yihui.r-universe.dev
 	branch = HEAD
+[submodule "MSG"]
+	path = MSG
+	url = https://github.com/yihui/MSG
+[submodule "Rd2roxygen"]
+	path = Rd2roxygen
+	url = https://github.com/yihui/Rd2roxygen
+[submodule "animation"]
+	path = animation
+	url = https://github.com/yihui/animation
+[submodule "formatR"]
+	path = formatR
+	url = https://github.com/yihui/formatR
+[submodule "fun"]
+	path = fun
+	url = https://github.com/yihui/fun
+[submodule "highr"]
+	path = highr
+	url = https://github.com/yihui/highr
+[submodule "knitr"]
+	path = knitr
+	url = https://github.com/yihui/knitr
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
+[submodule "mime"]
+	path = mime
+	url = https://github.com/yihui/mime
+[submodule "printr"]
+	path = printr
+	url = https://github.com/yihui/printr
+[submodule "rolldown"]
+	path = rolldown
+	url = https://github.com/yihui/rolldown
+[submodule "servr"]
+	path = servr
+	url = https://github.com/yihui/servr
+[submodule "testit"]
+	path = testit
+	url = https://github.com/yihui/testit
+[submodule "xaringan"]
+	path = xaringan
+	url = https://github.com/yihui/xaringan
+[submodule "xfun"]
+	path = xfun
+	url = https://github.com/yihui/xfun
