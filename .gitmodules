@@ -1,19 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/yihui/yihui.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
 [submodule "MSG"]
 	path = MSG
-	url = https://github.com/yihui/MSG
+	url = https://github.com/yihui/msg
 [submodule "Rd2roxygen"]
 	path = Rd2roxygen
-	url = https://github.com/yihui/Rd2roxygen
+	url = https://github.com/yihui/rd2roxygen
 [submodule "animation"]
 	path = animation
 	url = https://github.com/yihui/animation
 [submodule "formatR"]
 	path = formatR
-	url = https://github.com/yihui/formatR
+	url = https://github.com/yihui/formatr
 [submodule "fun"]
 	path = fun
 	url = https://github.com/yihui/fun
