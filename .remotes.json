@@ -1,0 +1,8 @@
+[
+  {
+    "package": "litedown",
+    "url": "https://github.com/yihui/litedown",
+    "via": ["xfun"],
+    "from": "xfun"
+  }
+]
