@@ -1,8 +1,0 @@
-[
-  {
-    "package": "tinytex",
-    "url": "https://github.com/rstudio/tinytex",
-    "via": ["knitr"],
-    "from": "knitr"
-  }
-]

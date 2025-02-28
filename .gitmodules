@@ -41,10 +41,6 @@
 [submodule "testit"]
 	path = testit
 	url = https://github.com/yihui/testit
-[submodule "tinytex"]
-	path = tinytex
-	url = https://github.com/rstudio/tinytex
-	registered = false
 [submodule "xaringan"]
 	path = xaringan
 	url = https://github.com/yihui/xaringan
