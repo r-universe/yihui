@@ -41,6 +41,9 @@
 [submodule "testit"]
 	path = testit
 	url = https://github.com/yihui/testit
+[submodule "tinyimg"]
+	path = tinyimg
+	url = https://github.com/yihui/tinyimg
 [submodule "xaringan"]
 	path = xaringan
 	url = https://github.com/yihui/xaringan
