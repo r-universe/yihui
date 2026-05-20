@@ -29,6 +29,9 @@
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
+[submodule "lt"]
+	path = lt
+	url = https://github.com/yihui/lt
 [submodule "mime"]
 	path = mime
 	url = https://github.com/yihui/mime
