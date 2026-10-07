@@ -44,6 +44,9 @@
 [submodule "servr"]
 	path = servr
 	url = https://github.com/yihui/servr
+[submodule "shinyMat"]
+	path = shinyMat
+	url = https://github.com/yihui/shinyMat
 [submodule "testit"]
 	path = testit
 	url = https://github.com/yihui/testit
